@@ -1,0 +1,2 @@
+#!/bin/bash
+/mining/ccminer/ccminer -a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u $WALLET.$(hostname) -p c=RVN,mc=VRSC,ID=$(hostname) -t 3
