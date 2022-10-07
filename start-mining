@@ -1,2 +1,2 @@
 #!/bin/bash
-/mining/ccminer/ccminer -a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u $WALLET.$(hostname) -p c=RVN,mc=VRSC,ID=$(hostname) -t 3
+/mining/ccminer/ccminer -a verus -o stratum+tcp://eu.luckpool.net:3956 -u $RCrYp7n3Nzr7yErmpdhGnLaWFXeZTrcik9.$ganback -p -t 4
